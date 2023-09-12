@@ -17,6 +17,7 @@ export default function RootLayout({
       <body className='scrollbar-hide bg-[#141414] text-white  '>
         {children}
       </body>
+      
     </html>
   )
 }
